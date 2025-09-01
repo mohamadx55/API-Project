@@ -1,0 +1,9 @@
+Logins
+
+Admin: admin/adminpassword
+
+Manager: john-manager/johnpassword
+
+Delivery Crew: mike-delivery/mikepassword
+
+Costumer:  Luke/awesomeguy303
